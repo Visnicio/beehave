@@ -1,5 +1,6 @@
 * [🐝 Getting started](/)
 * [📗 Manual](/manual/)
+    * [<img src="/beehave/assets/icons/blackboard.svg"> Your First Tree](/manual/your_frist_tree.md)
     * [<img src="/beehave/assets/icons/blackboard.svg"> Blackboard](/manual/blackboard.md)
     * [<img src="/beehave/assets/icons/category_leaf.svg"> Leaf Nodes](/manual/leaf_nodes.md)
         * [<img src="/beehave/assets/icons/action.svg"> Action Leaf](/manual/action_leaf.md)
